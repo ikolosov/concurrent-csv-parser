@@ -11,12 +11,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <parent>
-        <groupId>com.ikolosov.javaapps</groupId>
-        <artifactId>java-apps</artifactId>
-        <version>1.0-SNAPSHOT</version>
-    </parent>
-
     <build>
         <pluginManagement>
             <plugins>
