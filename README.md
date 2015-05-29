@@ -10,7 +10,7 @@ Technical solution is based on the high level Java concurrency API such as Execu
 ### Build Instructions
 Invoke the following maven command from the app root dir:
 
-`mvn clean install`
+`mvn clean package`
 
 Examine build log, make sure build was successful:
 
