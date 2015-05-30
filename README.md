@@ -1,4 +1,4 @@
-### Concurrent Task Processing 
+### Concurrent Task Processor
 This application is dedicated to the multithreading in Java, to the so called 'workflow join' pattern.  
 Pretty simple use-case of csv file parsing was taken as a basis.   
 Technical solution is based on the high level Java concurrency API such as ExecutorService, Callable, Future.   
